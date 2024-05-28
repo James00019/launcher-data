@@ -1537,8 +1537,9 @@ cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
 "KEY_Y_1" camnorm=1 alphamode=2 height=256 width=256 img=42251a45 png=ffe65067
 "KEY_N_1" camnorm=1 alphamode=2 height=256 width=256 img=2c6930f8 png=e0e9bfc5
 "gtexture" width=256 height=256 img=a58eba7f camnorm=1 alphamode=2
-"voicepassive" width=256 height=256 img=60b7280 alphamode=2
 "voiceactive" width=256 height=256 img=92465a59 alphamode=2
-"voicemuted" width=256 height=256 img=ca03403b alphamode=2
 "speaker" width=64 height=64 img=d50677b4 alphamode=2
 "sa_logo" width=256 height=256 img=dddb04b0 alphamode=2
+"voceactive" width=256 height=256 img=2cbd0424 alphamode=2
+"voicemuted" width=256 height=256 img=6fede2ad alphamode=2
+"voicepassive" width=256 height=256 img=94ee25f8 alphamode=2
