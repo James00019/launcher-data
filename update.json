@@ -1,7 +1,9 @@
 {
-  "game_version": "15.69",
-  "game_url": "https://unisamp-mobile.ru/mobile/apk/samp.apk",
-  "samp_list_url": "https://alynsampmobile.pro/data/samp_list.json",
-  "data_full_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
-  "data_lite_url": "https://raw.githubusercontent.com/James00019/launcher-data/main/lite_list.json"
+    "app_server_status": true,
+    "app_beta_status": false,
+    "game_version": "1.0.0",
+    "game_url": "https://mobile.newgamersrp.com/game/app-game-release.apk",
+    "samp_list_url": "https://mobile.newgamersrp.com/data/samp_list.json",
+    "full_list_url": "https://mobile.newgamersrp.com/data/full_list.json",
+    "lite_list_url": "https://mobile.newgamersrp.com/data/lite_list.json"
 }
