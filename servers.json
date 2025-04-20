@@ -3,18 +3,6 @@
         {
             "host": "play.uifserver.net",
             "port": "7776"
-        },
-        {
-            "host": "samp.phr-rp.net",
-            "port": "7777"
-	},
-	{
-            "host": "Blue.bugged.ro",
-            "port": "7777"
-	},
-	{
-            "host": "104.234.180.52",
-            "port": "26010"
-	}
+        }
     ]
 }
