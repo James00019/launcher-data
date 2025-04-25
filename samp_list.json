@@ -8,6 +8,13 @@
             "gpu": "all"
         },
         {
+            "name": "vehicleAudioSettings.cfg",
+            "path": "SAMP\/vehicleAudioSettings.cfg",
+            "size": "56871",
+            "url": "https://github.com/James00019/launcher-data/raw/refs/heads/main/vehicleAudioSettings.cfg",
+            "gpu": "all"
+        },
+        {
             "name": "SAMP.ide",
             "size": "89349",
             "path": "SAMP\/SAMP.ide",
