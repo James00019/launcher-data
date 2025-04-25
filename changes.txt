@@ -6,7 +6,7 @@ Launcher:
 
 Game:
 - Fixed fps drop when aiming
-- fixed crashes/freezes
+- Fixed crashes/freezes
 - Added new buttonpanel and dialog
 - Added built in menu (adjust draw distance & aspect ratio)
 - Fixed voice chat (showing even though server doesnt have sampvoice installed)
