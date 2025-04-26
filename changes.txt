@@ -1,3 +1,12 @@
+* Update: v1.0.2 *
+
+Launcher: 
+- New Interface
+
+Game:
+- Fixed passenger button (carjack)
+- Fixed vehicle engine sound
+
 * Update: v1.0.1 *
 
 Launcher:
@@ -13,12 +22,3 @@ Game:
 - Fixed voice chat icon (not showing after restart)
 - Fixed fps limit
 - Fixed modloader and cleo
-
-* Update: v1.0.2 *
-
-Launcher: 
-- New Interface
-
-Game:
-- Fixed passenger button (carjack)
-- Fixed vehicle engine sound
