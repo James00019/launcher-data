@@ -1,3 +1,23 @@
+* Update: v1.0.3 *
+
+New Interface
++ scoreboard
++ in-game menu settings
+
+Added
++ default aspect ratio
+
+Bug Fixes
++ fps drop while aiming
++ garage door not opening
++ dialog 'inputtext' returning null value
++ fullscreen issue on newer android version
++ default screen sensitivity : 0.5 > 50.0
++ sampvoice reconnecting issue
++ scoreboard invalid color
++ scoreboard inaccurate data/info
++ ingame button (alt issue)
+
 * Update: v1.0.2 *
 
 Launcher: 
