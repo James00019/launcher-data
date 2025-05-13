@@ -1,3 +1,19 @@
+* Update: v1.0.4 *
+
+Bug Fixes
++ dialog crash
++ alt button
++ fps drop while aiming
++ crosshair recoil & alignment
++ passenger button
++ scoreboard crash
++ vehicle audio sync
++ sound when recording
+
+Adjustments
++ New launcher interface
++ Button color
+
 * Update: v1.0.3 *
 
 New Interface
